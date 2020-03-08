@@ -1,4 +1,5 @@
-# socs.events
+# [socs.events](https://socs.events)
+A slick spot to see exactly what's going on around campus.
 
 ## Project setup
 ```
