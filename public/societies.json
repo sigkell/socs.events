@@ -1,0 +1,74 @@
+[
+	{
+		"portalId": 120,
+		"id": "accfin",
+		"name": "Accounting & Finance Society",
+		"alt_names": ["accfin", "acc/fin"],
+		"tags": ["academic", "social"],
+		"founded": 1999,
+		"tagline": "Academic society for accounting and finance students.",
+		"description": "Founded in 1999, the Accounting/Finance Society organises many nights out for its members, holds talks from industry professionals, & hosts the annual Accounting & Finance Ball which caps off the college year in style, and is sure to provide lasting memories.",
+		"email": "accfin",
+		"external": {
+			"uccWebsite": "accfin",
+			"facebook": "uccaccfin",
+			"twitter": "UCC_AF"
+		}
+	},
+	{
+		"portalId": 348,
+		"id": "africa",
+		"name": "Africa Society",
+		"tags": ["cultural", "social"],
+		"tagline": "To educate, entertain and inform about Africa!",
+		"description": [
+			"Aimed at celebrating Africa's culture as whole: Music, dance, food, fashion without leaving out its enriching history, politics, languages and much more.",
+			"If you're searching for a medium that gives you the complete African experience right wherever you are, you've come to the right page :).",
+			"Dance, movies, crafts, food, talks, talent shows, conferences- we do it all. Jack of all trades, master of most is our mantra.",
+			"Strap your belts on, and enjoy the ride. You're welcome :)."
+		],
+		"email": "africa",
+		"external": {
+			"uccWebsite": "africasoc",
+			"facebook": "uccafrica"
+		}
+	},
+	{
+		"portalId": 366,
+		"id": "aiesec",
+		"name": "AIESEC Society",
+		"tags": ["charity", "charitable", "social"],
+		"tagline": "UCC branch of AIESEC",
+		"description": "",
+		"email": "aiesec",
+		"external": {
+			"uccWebsite": "aiesecsoc",
+			"facebook": "uccaccfin",
+			"twitter": "UCC_AF"
+		}
+	},
+	{
+		"portalId": 381,
+		"id": "alzheimers",
+		"name": "Alzheimer's Society",
+		"tags": ["charity", "charitable", "medical"],
+		"tagline": "Raising awareness surrounding Alzheimer's and dementia",
+		"description": "",
+		"email": "alzheimers",
+		"external": {
+			"facebook": "UCCAlzheimersSociety"
+		}
+	},
+	{
+		"portalId": 211,
+		"id": "amnesty",
+		"name": "Amnesty International Society",
+		"tags": ["charity", "charitable", "activism"],
+		"tagline": "Chairty campaigning for human rights",
+		"description": "",
+		"email": "amnesty",
+		"external": {
+			"facebook": "UCCAmnesty"
+		}
+	}
+]
